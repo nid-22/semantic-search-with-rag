@@ -58,4 +58,14 @@ This layer generates the final answer by feeding the top reranked chunks into a 
 - 🔍 Query → Top-N results → Re-ranked results
 - 🧾 Prompt → Answer from LLM
 
+Query:  Any floral palazzo pants in size M, preferably under ₹1500?
+
+top results
+1. Libas Women Pink Floral Printed Ethnic Palazzos - This product is available in size M and is priced at ₹1,499.
+2. Indo Era Women Brown Solid Straight Palazzos - This product is available in size M and is priced at ₹1,499.
+3. W Yellow Palazzos - This product is available in size M and is priced at ₹1,499.
+
+ <img width="1425" height="593" alt="image" src="https://github.com/user-attachments/assets/47ebf1dc-2d24-45e4-852e-74623b51cdb7" />
+
+
 ---
